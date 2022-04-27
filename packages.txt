@@ -1,0 +1,9 @@
+tensorflow
+scikit-learn
+numpy
+librosa
+scipy
+pandas
+matplotlib
+joblib
+pyyaml
